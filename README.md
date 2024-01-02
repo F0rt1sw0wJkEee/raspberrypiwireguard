@@ -266,5 +266,3 @@ https://github.com/adrianmihalko/raspberrypiwireguard/
 
 -   Port forwarding on router UDP 51820    
 -   Double WARN users for using the right key at the right place
-
-
